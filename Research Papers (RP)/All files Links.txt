@@ -1,3 +1,18 @@
 1. https://www.researchgate.net/profile/Oluwaseun-Olaniyi/publication/389875755_Developing_Proactive_Threat_Mitigation_Strategies_for_Cloud_Misconfiguration_Risks_in_Financial_SaaS_Applications/links/67d597197c5b5569dcbe7ce5/Developing-Proactive-Threat-Mitigation-Strategies-for-Cloud-Misconfiguration-Risks-in-Financial-SaaS-Applications.pdf
 
-2. 
+2. https://www.researchgate.net/profile/Faith-Kolo/publication/391672117_Mitigating_Cybersecurity_Risks_in_Financial_Institutions_through_Strategic_Third_Party_Risk_Governance_Frameworks/links/68224888bfbe974b23c81507/Mitigating-Cybersecurity-Risks-in-Financial-Institutions-through-Strategic-Third-Party-Risk-Governance-Frameworks.pdf
+
+3. https://www.researchgate.net/profile/Oluwaseun-Olaniyi/publication/393438016_AI_and_IoT_Integration_for_Predictive_Maintenance_and_Risk_Management_in_Smart_Manufacturing/links/6869693339c3583512073772/AI-and-IoT-Integration-for-Predictive-Maintenance-and-Risk-Management-in-Smart-Manufacturing.pdf
+
+4. https://www.researchgate.net/profile/Oluwaseun-Olaniyi/publication/393465510_Cyber_Risk_Spillovers_in_Interconnected_Financial_Ecosystems_Evidence_from_Traditional_Banks_and_DeFi_Oracles/links/686bf99ce4632b045dca65e5/Cyber-Risk-Spillovers-in-Interconnected-Financial-Ecosystems-Evidence-from-Traditional-Banks-and-DeFi-Oracles.pdf
+5. https://www.researchgate.net/profile/Faith-Kolo/publication/392130058_Responsible_AI_for_Cybersecurity_Assessing_the_Barriers_Biases_and_Governance_Gaps_in_Implementation_with_E_commerce_Systems/links/68361514026fee1034fc5cf9/Responsible-AI-for-Cybersecurity-Assessing-the-Barriers-Biases-and-Governance-Gaps-in-Implementation-with-E-commerce-Systems.pdf
+
+6. https://www.researchgate.net/profile/Temilade-Adesokan-Imran/publication/391521886_Intelligent_Fraud_Prevention_Information_Banking_A_Data_Governance-_Centric_Approach_Using_Behavioural_Biometrics/links/681b6d8cbd3f1930dd6d8652/Intelligent-Fraud-Prevention-Information-Banking-A-Data-Governance-Centric-Approach-Using-Behavioural-Biometrics.pdf
+
+7. https://ijsate.com/wp-content/uploads/2025/05/V2I5P102_IJSATE0525117.pdf
+
+8. https://reference-global.com/download/article/10.2478/bsaft-2022-0007.pdf
+
+9. https://www.researchgate.net/profile/Pankaj-Malik-4/publication/401577898_Security_Risk_Assessment_of_Blockchain-Enabled_Cloud_Storage_Architectures_Threat_Modelling_and_Mitigation_Strategies/links/69a95aa184431b5258b7bb3d/Security-Risk-Assessment-of-Blockchain-Enabled-Cloud-Storage-Architectures-Threat-Modelling-and-Mitigation-Strategies.pdf
+
+10.  
